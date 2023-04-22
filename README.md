@@ -1,1 +1,2 @@
-# pokedex-dio
+# Pokedex 
+Curso da DIO
